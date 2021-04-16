@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="arrow" width="24" height="24" viewBox="0 0 24 24"><defs><style>
+      .cls-1 {
+        fill: #f8636b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style></defs><circle class="cls-1" cx="12" cy="12" r="12"></circle><path id="Arrow-2" data-name="Arrow" class="cls-2" d="M1299.81,1865.35l0.76,0.65,4.43-4.17v-0.66l-4.43-4.17-0.72.65,3.5,3.38H1295v0.93h8.35Z" transform="translate(-1288 -1849)"></path></svg>

@@ -1,0 +1,127 @@
+
+	
+
+		
+		
+
+		@media screen and (min-width: 601px) {
+
+
+			.ver5 {
+				font-size: 17px;
+				/*font-size: 120%;*/	
+			}
+		.ver4{
+			font-size: 18px;
+		}
+	    .ver3{
+			font-size: 150%;
+		}
+		
+		
+		
+		
+
+
+		}
+
+		@media screen and (max-width: 600px) {
+			.ver5 {
+				font-size: 14px;
+			}
+
+			
+			.ver3{
+				font-size: 20px;
+			}
+			
+
+
+
+		
+
+
+
+
+			.
+		.ver2{
+			font-size: 15px;
+		}
+		.ver4{
+			font-size: 15px;
+		}
+		
+		}
+		
+		
+
+.ver3,.ver4,.ver5{
+	font-weight: 700;
+}
+.pro-wgt{
+	font-weight: 600;
+}
+
+.wi{
+	color: rgb(253 253 253);
+}
+
+
+
+
+.bl{
+	color: rgb( 19 20 21);
+
+}
+
+.shade-bl{
+	color:rgb(153 153 153);
+
+}
+
+.gr{
+	color: rgb( 12 175 82);
+
+}
+
+.re{
+	color: rgb(235 75 75);
+}
+.full-bl{
+	color:rgb(0 0 0);
+}
+
+.medium-bl{
+	color: rgb(76 77 76);
+}
+
+.blu{
+	color: rgb(0 122 255);
+}
+
+.ver2{
+	font-family: 'Montserrat'; color: rgb(255 255 255);
+}
+
+.im1{
+	width: 40px;
+	height: 40px;
+
+}
+
+.prof{
+	background-color: rgb(255 255 255); b
+}
+
+
+
+
+.wgt-600{
+	font-weight: 600;
+}
+
+.imgqr{
+	width:150px; height:150px; max-width: 100%;
+						min-width: 200px;
+						height: auto;
+}

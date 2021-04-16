@@ -1,0 +1,21 @@
+
+body{
+  font-family: Montserrat;
+}
+.logo-top{
+  height: 40px;
+  width: 40px;
+}
+.name-box {
+    padding: 3px 6px !important;
+    margin-bottom: -7px;
+}
+.container.img-section {
+    margin-top: 15%;
+    margin-bottom: 0px;
+}
+/*mobile device setpup*/
+
+
+
+    

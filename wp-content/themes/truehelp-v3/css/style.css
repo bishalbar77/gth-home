@@ -1,0 +1,90 @@
+body{
+  font-family: Montserrat;
+}
+
+.logo-top{
+  height: 40px;
+  width: 40px;
+}
+
+.but{
+	background-color: blue;
+	color: white ;
+}
+ 
+   
+
+
+
+
+
+/*mobile device setpup*/
+
+
+
+    @media screen and (min-width: 601px) {
+
+
+.set-mar2{
+  margin-left: 100px;
+}
+
+.set-mar{
+  margin-top: 150px;
+}
+
+.marg{
+  margin-left: 120px;
+}
+
+
+    }
+
+ @media screen and (max-width: 600px) {
+
+      .temp{
+        font-size: 15px;
+      }
+      
+      h4,h2,h3{
+        font-size: 20px;
+      }
+      p{
+        font-size: 12px;
+      }
+      .set-mar{
+        margin-top: 0px;
+      }
+      .marg{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+      
+}
+   
+
+/*/*
+mobile device setup end*/
+
+
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+    border-radius: 5px;
+
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 5.500rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+/*search-bar end
+
+
